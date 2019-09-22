@@ -1,26 +1,19 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: a storm in every port
+title: a storm in every port | photos & musings
+description: photos & musings
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - photos
+  - prose
+email: rebecca@technicloud.com
 show_hero: true
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+twitter_username: https://twitter.com/rmfizzle
+instagram_username: https://www.instagram.com/rfitzhugh8
 
 
 # Theme Settings
