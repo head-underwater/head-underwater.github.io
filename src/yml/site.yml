@@ -1,12 +1,9 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: a storm in every port
+title: a storm in every port | photos & musings
+description: photos & musings
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - photos
+  - prose
+email: rebecca@technicloud.com
 show_hero: true
